@@ -1,6 +1,6 @@
 # Formulário de Contato
 
-![Descrição da Imagem](images/aps.png)
+![Descrição da Imagem](./images/aps.png)
 
 ## Descrição
 
