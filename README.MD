@@ -1,7 +1,5 @@
 # Formulário de Contato
 
-![1726774415747](image/README/1726774415747.png)
-
 ## Descrição
 
 Este é um aplicativo web simples de formulário de contato, construído com Node.js e MongoDB. O objetivo é coletar informações dos usuários e armazená-las em um banco de dados, além de fornecer feedback sobre o envio do formulário.
